@@ -1,0 +1,8 @@
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbitis.student' doesn't exist--2025-01-23 09:48:33
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbitis.student' doesn't exist--2025-01-23 09:48:34
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbitis.student' doesn't exist--2025-01-23 09:48:34
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbitis.student' doesn't exist--2025-01-23 09:48:34
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbitis.student' doesn't exist--2025-01-23 09:48:34
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbitis.student' doesn't exist--2025-01-23 09:48:34
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbitis.student' doesn't exist--2025-01-23 10:05:45
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00012' for key 'PRIMARY'--2025-01-23 10:07:22
